@@ -1,0 +1,31 @@
+MELCHIZEDEK TECHNOLOGIES — DEPLOYMENT CHECKLIST
+
+DOMAIN
+- melchizedek.co.zw
+- Confirm DNS points to the web host.
+- Enable HTTPS/SSL and redirect HTTP to HTTPS.
+
+FILES
+- Upload the contents of this ZIP to the site's public web directory.
+- Keep logo.png, projects/, CSS, JS, service pages, quote.html, robots.txt, sitemap.xml and site.webmanifest.
+
+CONTACT TESTS
+- WhatsApp: 0772 621 708
+- Email: info@melchizedek.co.zw
+- Test quote form from an Android phone.
+- Test phone, email and WhatsApp buttons.
+
+CONTENT
+- Verify all prices before publishing.
+- Verify business statistics before publishing.
+- Use only customer-approved testimonials.
+- Add official social links when confirmed.
+
+GOOGLE
+- Submit sitemap.xml through Google Search Console after launch.
+- Verify the canonical domain uses HTTPS.
+- Test homepage and service pages in Google's URL inspection tools.
+
+SECURITY
+- Keep hosting, DNS and email accounts protected with strong passwords and 2FA where available.
+- Keep regular backups of the website files.

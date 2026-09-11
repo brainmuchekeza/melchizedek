@@ -1,0 +1,52 @@
+MELCHIZEDEK TECHNOLOGIES — FINAL LAUNCH CHECKLIST
+
+1. DOMAIN
+[ ] Point melchizedek.co.zw DNS to the web host.
+[ ] Confirm www/non-www redirect policy.
+[ ] Enable HTTPS/SSL.
+[ ] Redirect HTTP to HTTPS.
+
+2. WEBSITE FILES
+[ ] Upload all files/folders in this ZIP.
+[ ] Confirm logo.png and every projects/ image loads.
+[ ] Confirm index.html is the homepage.
+[ ] Confirm 404.html is configured as the host's custom 404 page.
+
+3. BUSINESS CONTACTS
+[ ] Test WhatsApp: 0772 621 708.
+[ ] Test email: info@melchizedek.co.zw.
+[ ] Confirm the domain mailbox is receiving mail.
+[ ] Add official social links only after the exact accounts are confirmed.
+
+4. COMMERCIAL DETAILS
+[ ] Confirm starting prices before launch:
+    Starlink from $170
+    Solar from $450
+    CCTV from $100
+[ ] Confirm the pricing disclaimer remains visible.
+[ ] Confirm the public impact figures are accurate.
+[ ] Keep only customer-approved testimonials marked as approved/verified.
+
+5. SEO
+[ ] Submit https://melchizedek.co.zw/sitemap.xml in Google Search Console.
+[ ] Request indexing of the homepage and main service pages.
+[ ] Test page titles/descriptions in the live site.
+[ ] Confirm canonical URLs use the final preferred domain.
+
+6. LEADS
+[ ] Submit the quotation form from a phone.
+[ ] Submit it from desktop.
+[ ] Confirm WhatsApp opens with the complete enquiry.
+[ ] Confirm service preselection links work.
+
+7. SECURITY
+[ ] Use strong hosting/DNS/email passwords.
+[ ] Enable 2FA where available.
+[ ] Keep a backup copy of the production website.
+[ ] Do not publish admin credentials in website files.
+
+8. AFTER LAUNCH
+[ ] Add verified testimonials as they are approved.
+[ ] Add new real project photos regularly.
+[ ] Update prices when packages change.
+[ ] Consider analytics only after choosing a privacy-conscious implementation and updating the privacy notice.

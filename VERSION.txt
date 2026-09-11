@@ -1,0 +1,14 @@
+Melchizedek Technologies Website
+Version: V25 — Final Production / Launch Candidate
+Date: 2026-09-11
+
+V25 additions:
+- Privacy notice
+- Website terms
+- Dedicated contact page
+- Custom 404 page
+- Per-service structured data
+- Expanded sitemap
+- Final footer/legal navigation
+- robots.txt refresh
+- Launch QA
